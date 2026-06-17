@@ -7,5 +7,5 @@ langchain-community==0.2.6
 faiss-cpu>=1.12.0
 pypdf==4.2.0
 numpy>=1.26.4
-langchain-groq==0.1.15
+langchain-groq==0.3.0
 langchain-huggingface==0.0.3
