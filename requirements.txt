@@ -1,11 +1,11 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
-torch==2.2.1+cpu
-sentence-transformers==3.0.1
+torch>=2.9.0+cpu
+sentence-transformers>=3.0.1
 streamlit==1.35.0
 langchain==0.2.6
 langchain-community==0.2.6
 faiss-cpu==1.8.0
 pypdf==4.2.0
-numpy==1.26.4
+numpy>=1.26.4
 langchain-groq==0.1.15
 langchain-huggingface==0.0.3
