@@ -1,3 +1,14 @@
+---
+title: DocMind RAG
+emoji: 🧠
+colorFrom: green
+colorTo: black
+sdk: streamlit
+sdk_version: 1.35.0
+app_file: app.py
+pinned: false
+---
+
 # 🧠 DocMind — RAG-Based Intelligent Document Q&A System
 
 A production-style Retrieval-Augmented Generation (RAG) system that lets you upload any PDF or TXT document and ask questions about it in natural language. Built with LangChain, OpenAI, FAISS, and Streamlit.
